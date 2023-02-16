@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\bin\Debug\Inheritance_İnterface_Ornek.exe.config
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\bin\Debug\Inheritance_İnterface_Ornek.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\bin\Debug\Inheritance_İnterface_Ornek.pdb
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\obj\Debug\Inheritance_İnterface_Ornek.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\obj\Debug\Inheritance_İnterface_Ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\obj\Debug\Inheritance_İnterface_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\obj\Debug\Inheritance_İnterface_Ornek.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Inheritance_İnterface_Ornek\obj\Debug\Inheritance_İnterface_Ornek.pdb
